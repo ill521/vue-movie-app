@@ -4,7 +4,7 @@
     <a 
       href="https://github.com/ill521" 
       target="_blank">
-      (c){{ new Date().getFullYear()}} heropy</a>
+      (c){{ new Date().getFullYear() }} heropy</a>
   </footer>
 </template>
 
